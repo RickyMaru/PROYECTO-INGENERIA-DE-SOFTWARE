@@ -1,4 +1,5 @@
 # PROYECTO-INGENERIA-DE-SOFTWARE
+Paquetes que usaremos en el proyecto:
 1. npm i express: Framework de Javascript para la creacion de aplicacion backend.
 2. npm i express express-handlebars: Integracion motor de plantillas handlebars en express.
 3. npm i express express-session: Admnistra las sessiones de nuestra app, necesario para autenticar usuario
